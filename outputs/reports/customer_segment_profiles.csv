@@ -1,0 +1,5 @@
+Cluster,Age_Mean,Age_Min,Age_Max,Income_Mean,Income_Min,Income_Max,Spending_Mean,Spending_Min,Spending_Max,Female_Percentage,Segment_Size,Segment_Percentage,Segment_Label
+0,44.89,18,70,48.71,16,69,42.63,3,60,62.11,95,47.5,Middle Aged Segment
+1,32.69,27,40,86.54,69,137,82.13,63,97,53.85,39,19.5,High Spender Rich
+2,24.82,18,35,28.71,15,48,74.25,39,99,50.0,28,14.0,High Spender Average Income
+3,40.39,19,59,87.0,70,137,18.63,1,40,47.37,38,19.0,Low Spender Rich
